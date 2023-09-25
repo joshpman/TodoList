@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Besley&display=swap');
+$font-stack: Besley;
+$mainBgColor: #00111C;
+$mainTextColor: #00406C;
+$iconColors: #FFFFFF;
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: $mainBgColor;
+}
+h1{
+    color: $mainTextColor;
+}
+svg{
+    color: $iconColors;
+    fill: $iconColors;
+}

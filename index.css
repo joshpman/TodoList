@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Besley&display=swap");
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-color: #00111C;
+}
+
+h1 {
+  color: #00406C;
+}
+
+svg {
+  color: #FFFFFF;
+  fill: #FFFFFF;
+}/*# sourceMappingURL=index.css.map */
